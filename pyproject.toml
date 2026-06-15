@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "krast-market-breadth"
+version = "0.1.0"
+description = "CLI tools for A-share market breadth weak-to-strong analysis."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+krast-weak-to-strong = "krast_market_breadth.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

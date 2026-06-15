@@ -1,0 +1,33 @@
+{
+  "industry": "银行",
+  "date": "2026-06-15",
+  "data": [
+    {
+      "stock_code": 1.0,
+      "stock_name": "平安银行",
+      "industry": "银行",
+      "date": "2026-06-15",
+      "close_price": 11.0,
+      "ma20": 10.5,
+      "change_percent": 2.0
+    },
+    {
+      "stock_code": "601398",
+      "stock_name": "工商银行",
+      "industry": "银行",
+      "date": "2026-06-15",
+      "close_price": 6.0,
+      "ma20": 6.2,
+      "change_percent": -1.0
+    },
+    {
+      "stock_code": 601988.0,
+      "stock_name": "中国银行",
+      "industry": "银行",
+      "date": "2026-06-15",
+      "close_price": 5.0,
+      "ma20": 4.9,
+      "change_percent": 0.0
+    }
+  ]
+}

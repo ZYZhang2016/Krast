@@ -1,0 +1,15 @@
+{
+  "industry": "今日翻红",
+  "date": "2026-06-15",
+  "data": [
+    {
+      "stock_code": "300001",
+      "stock_name": "示例科技",
+      "industry": "今日翻红",
+      "date": "2026-06-15",
+      "close_price": 20.5,
+      "ma20": 19.2,
+      "change_percent": 3.4
+    }
+  ]
+}
